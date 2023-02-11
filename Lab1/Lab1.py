@@ -1,0 +1,12 @@
+s='abc'
+print(dir(s))
+help(s.find)
+print(s.find('b'))
+help(str.capitalize)
+print(s.upper())
+s.find('a', 0)
+print(s.strip())
+s.startswith('a')
+s.startswith('h')
+s.lower()
+s.lower().startswith('a')
