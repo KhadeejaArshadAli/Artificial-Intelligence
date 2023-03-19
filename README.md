@@ -13,3 +13,8 @@ This folder focuses on:
  1. Lambda
  2. File Handling
  3. Modules
+# Lab 4
+ This folder has the basic implementation of vaccum cleaner
+ 1. Vaccum cleaner that is assigned to clean two rooms
+ 2. Assigned to clean three rooms
+ 3. Scores the given vaccum cleaner
